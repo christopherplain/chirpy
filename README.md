@@ -1,6 +1,6 @@
 # Chirpy
 
-Chirpy is a web server built as a guided learning exercise. Feel free to take what you can, but keep in mind this is far from production ready code.
+Chirpy is a Go microblogging web server built as an exploration exercise. This project is not production read at this time. However, feel free to take and use what you can.
 
 ## Requirements
 
@@ -24,4 +24,4 @@ The server is configured by default to listen on port 8080.
 
 ## Boot.dev
 
-Chirpy is a guided learning exercise I created while working through [Boot.dev](https://boot.dev) coursework. Boot.dev is a great resource for learning backend development. Please check out their courses if you're at all interested in learning to build similar projects.
+I created Chirpy while working through the coursework at [Boot.dev](https://boot.dev). Boot.dev is a great resource for learning backend development and is worth checking out if you're interested in building similar projects.
