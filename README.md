@@ -24,4 +24,4 @@ The server is configured by default to listen on port 8080.
 
 ## Boot.dev
 
-I created Chirpy while working through the coursework at [Boot.dev](https://boot.dev). Boot.dev is a great resource for learning backend development and is worth checking out if you're interested in building similar projects.
+Checkout [Boot.dev](https://boot.dev) if you're interested in improving your backend development skills by building similar projects.
